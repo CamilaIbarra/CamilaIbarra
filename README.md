@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 Camila Ibarra, 19-05-1999.
 Full Stack Java Developer Trainee.
 
-🔭 Actualmente, soy parte de un proyecto en equipo de 4 personas. Este consiste en desarrollar una aplicación proveedora de servicios con Java y Springboot, haciendo uso de metodologías ágiles.
+🔭 Actualmente, soy parte de un proyecto en equipo de 3 personas. Este consiste en desarrollar una aplicación proveedora de servicios con Java y Springboot, haciendo uso de metodologías ágiles.
 🌱 En paralelo, estoy aprendiendo sintaxis de Python en el programa Digitalers de Telecom ARG y EducacionIT. También continúo mi formación en Front-End y Java en el programa ONE (Oracle Next Education) de Oracle y Alura LATAM.
 💬 Mi objetivo es consolidar mis conocimientos de Java, y seguir capacitándome constantemente. También siento cierta inclinación a especializarme en Front-End y quiero investigar/aprender más sobre React.
 ⚡ Tengo competencia avanzada en inglés. 
