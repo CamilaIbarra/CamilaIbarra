@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Camila Ibarra</h1>
-<h3 align="center">Full Stack Java Developer Trainee.</h3>
+<h3 align="center">Full Stack Developer.</h3>
 
-- 🌱 I’m currently learning **Java, Python, HTML, CSS, JavaScript**
+- 🌱 Currently learning **Java, PHP, Python, MySQL/SQL Server, Docker, Tailwind CSS**
 
 - 📫 How to reach me **ibarra_camila@outlook.com**
 
